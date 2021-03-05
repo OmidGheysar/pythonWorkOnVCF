@@ -21,3 +21,26 @@ print(f.read())
 print("hello!")
 print("some thing new ")
 print("this is my workQW")
+
+with open('allsamples_1_10.vcf', mode='r') as vcf:
+    print(vcf.read())
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
