@@ -18,3 +18,4 @@ if __name__ == '__main__':
 f = open("file.txt", "r")
 print(f.read())
 # this is some modification
+print("hello!")
