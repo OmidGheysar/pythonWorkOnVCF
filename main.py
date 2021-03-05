@@ -19,3 +19,4 @@ f = open("file.txt", "r")
 print(f.read())
 # this is some modification
 print("hello!")
+print("some thing new ")
